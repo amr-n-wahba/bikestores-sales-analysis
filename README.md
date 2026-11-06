@@ -2,6 +2,18 @@
 
 An end-to-end Microsoft SQL Server analytics project for a multi-store bicycle retailer. It transforms the BikeStores coursework exercises into a clean, reproducible portfolio project with a compact sample database, business KPIs, customer analysis, product analysis, and reusable database objects.
 
+## Project Screenshots
+
+![Executive KPIs](01_executive_kpis.png)
+
+![Monthly Revenue](02_monthly_revenue.png)
+
+![Store Performance](03_store_performance.png)
+
+![Top Customers](04_top_customers.png)
+
+![Product Performance](05_product_performance.png)
+
 ## Business problem
 
 Management needs a single SQL analysis that answers four questions:
@@ -24,11 +36,11 @@ Management needs a single SQL analysis that answers four questions:
 
 ```text
 database/
-  01_create_and_seed_bikestores.sql
-  02_business_analysis.sql
-  03_views_and_procedures.sql
+    01_create_and_seed_bikestores.sql
+    02_business_analysis.sql
+    03_views_and_procedures.sql
 docs/
-  ANALYSIS_GUIDE.md
+    ANALYSIS_GUIDE.md
 ```
 
 ## How to run
